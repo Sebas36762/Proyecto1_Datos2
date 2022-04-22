@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Fondo.jpg</file>
+        <file>023.jpg</file>
+        <file>022.jpg</file>
+        <file>021.jpg</file>
+        <file>020.jpg</file>
+        <file>019.jpg</file>
+        <file>018.jpg</file>
+        <file>017.jpg</file>
+        <file>016.jpg</file>
+        <file>015.jpg</file>
+        <file>014.jpg</file>
+        <file>013.jpg</file>
+        <file>012.jpg</file>
+        <file>011.jpg</file>
+        <file>010.jpg</file>
+        <file>09.jpg</file>
+        <file>08.jpg</file>
+        <file>07.jpg</file>
+        <file>06.jpg</file>
+        <file>05.jpg</file>
+        <file>04.jpg</file>
+        <file>03.jpg</file>
+        <file>02.jpg</file>
+        <file>01.jpg</file>
+    </qresource>
+</RCC>
