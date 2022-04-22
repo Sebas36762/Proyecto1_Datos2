@@ -9,7 +9,7 @@
 #include <chrono>
 #include <random>
 
-
+//Creacion de la ventana con sus tarjetas
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
